@@ -1,7 +1,9 @@
 # TicTacToe
 A very basic TicTacToe made in an afternoon exploring the minimax algorithm
 
-The only purpose for this program is for me to see how minimax algorith works.
+**It uses the console for inputs**
+
+The only purpose for this program is for me to see how the minimax algorithm works.
 You can only play against the AI(minimax algorithm).
 
 ### What I can do in the future:
